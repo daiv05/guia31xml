@@ -1,0 +1,23 @@
+/* ejemplo2.css   dc19019  */
+
+pais{
+    background-color:rgb(255, 41, 41);
+}
+
+departamento{
+    background-color:rgb(112, 235, 190);
+}
+
+cabecera {
+    background-color:rgb(82, 82, 249);
+}
+
+habitante {
+    background-color:red; 
+    display:block;
+} 
+
+altura {
+    color:yellow; 
+    display:inline;
+}

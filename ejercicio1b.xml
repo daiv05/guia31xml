@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?> 
+<?xml-stylesheet type="text/css" href="ejercicio1b.css" ?>
+<fichero>
+
+    <ficha id="1" fechaingreso="1/11/2012">
+        <nombre>Antonio</nombre>
+        <apellido>Barbero</apellido>
+        <direccion>Calle de Los Andes, 45</direccion>
+    </ficha>
+
+    <ficha id="2" fechaingreso="1/11/2019">
+        <nombre>David</nombre>
+        <apellido>Deras</apellido>
+        <direccion>Canton Gutierrez, Calle Principal</direccion>
+        <telfono>63000000</telfono>
+        <email>dc19019@ues.edu.sv</email>
+        <website>https://daiv05.neocities.org/</website>
+    </ficha>
+
+    <ficha id="3" fechaingreso="1/11/2022">
+        <nombre>Juan</nombre>
+        <apellido>Deras</apellido>
+        <direccion>Canton Gutierrez, Calle Principal</direccion>
+        <telfono>63000000</telfono>
+        <email>dc19019@ues.edu.sv</email>
+        <website>https://daiv05.neocities.org/</website>
+        <dui>00000000-0</dui>
+        <afp>000000000</afp>
+    </ficha>
+
+</fichero> 

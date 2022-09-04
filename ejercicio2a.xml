@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?> 
+<?xml-stylesheet type="text/css" href="ejercicio2a.css" ?>
+
+<pais nombre="El Salvador">
+
+    <moneda id = "1">Dolar Estadounidense</moneda>
+    <moneda id = "2">Bitcoin</moneda>
+    
+    <departamento id="1" nombre="San Salvador">
+        <cabecera>San Salvador</cabecera>
+        <habitantes>1,700,000</habitantes>
+        <altura>545 MSNM</altura>
+    </departamento>
+
+    <departamento id="2" nombre="Chalatenango">
+        <cabecera>Chalatenango</cabecera>
+        <habitantes>1,100,000</habitantes>
+        <altura>700 MSNM</altura>
+        <codTelefonico>001</codTelefonico>
+        <areaterritorial>200km2</areaterritorial>
+    </departamento>
+
+</pais>

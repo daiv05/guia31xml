@@ -1,0 +1,48 @@
+{
+	"pais":{
+		"@nombre":"El Salvador",
+		"departamento":[
+			{
+				"@id":"1",
+				"@nombre":"San Salvador",
+				"cabecera":"San Salvador",
+				"habitantes":"1,700,000",
+				"altura":"545 MSNM"
+			},
+			{
+				"@id":"2",
+				"@nombre":"Chalatenango",
+				"cabecera":"Chalatenango",
+				"habitantes":"1,100,000",
+				"altura":"700 MSNM",
+				"codTelefonico":"001",
+				"areaterritorial":"200km2"
+			},
+			{
+				"@id":"2",
+				"@nombre":"Santa Ana",
+				"cabecera":"Santa Ana",
+				"habitantes":{
+					"@censo":"2021",
+					"#text":"2,200,000"
+				},
+				"altura":"600 MSNM",
+				"codTelefonico":{
+					"@region":"sta",
+					"#text":"003"
+				},
+				"areaterritorial":"300km2"
+			}
+		],
+		"moneda":[
+			{
+				"@id":"1",
+				"#text":"Dolar Estadounidense"
+			},
+			{
+				"@id":"2",
+				"#text":"Bitcoin"
+			}
+		]
+	}
+}

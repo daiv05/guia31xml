@@ -1,0 +1,53 @@
+
+pais {
+    background-color:rgb(242, 242, 234);
+}
+
+departamento {
+    background-color:rgb(0, 0, 0); 
+    font-style: italic;
+    color: aliceblue;
+    display:block;
+} 
+
+cabecera {
+    background-color:rgb(0, 0, 0); 
+    font-style: italic;
+    color: aliceblue;
+    display:block;
+}
+
+habitantes {
+    background-color:rgb(95, 95, 95); 
+    font-style: normal;
+    color: aliceblue;
+    display:block;
+} 
+
+altura {
+    background-color:rgb(95, 95, 95); 
+    font-style: normal;
+    color: aliceblue;
+    display:block;
+} 
+
+moneda {
+    background-color:rgb(28, 48, 94); 
+    font-style: italic;
+    color: aliceblue;
+    display:block;
+} 
+
+codTelefonico {
+    background-color:rgb(95, 95, 95); 
+    font-style: normal;
+    color: aliceblue;
+    display:block;
+} 
+
+areaterritorial {
+    background-color:rgb(95, 95, 95); 
+    font-style: normal;
+    color: aliceblue;
+    display:block;
+} 
